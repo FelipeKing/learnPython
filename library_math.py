@@ -1,4 +1,5 @@
 # contas com library MATH
+# importando bibliotecas
 
 import math
 

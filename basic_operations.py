@@ -1,5 +1,6 @@
 # alguel carro
 # parametros: 60 reais por dia e 0,15 por km
+# contas básicas
 
 days = int(input("Digite quantos diárias foram usadas: "))
 kms = float(input("Quilometros percorridos: "))

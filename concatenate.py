@@ -1,8 +1,10 @@
 # varificar idade
+# usando métodos de string
+# concatenando
 
-print("Vamos concatenar para entrar no Bar!!!\n\n\n")
+print("Vamos concatenar para entrar no Bar!!!\n\n")
 
-name = str(input("Digite o seu nome: "))
+name = str(input("Digite o seu nome: ")).strip().capitalize()
 print("Bem vindo " + name + "\n\n")
 
 number = int(input("digite o ano que você nasceu: "))

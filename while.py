@@ -1,4 +1,5 @@
 # tabuada
+# usando while
 
 number = int(input("Digite o multiplo da tabuada: "))
 i = 1
